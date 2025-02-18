@@ -1,0 +1,1 @@
+{"min_pos":[0,0],"max_pos":[131072,131072],"resolutions":[1,128,16,2,256,32,4,512,64,8],"mirror_tiles":"false","bins_per_dimension":256,"datatype":"matrix","name":"87K x 87K pairwise genome comparison","coordSystem":""}
